@@ -9,9 +9,8 @@
 #include "Kismet/KismetSystemLibrary.h"
 //#include "SessionListWidget.h"
 #include "Identity_5/SessionListWidget.h"
-
-#include "GameFramework/PlayerState.h"
-#include "GameFramework/PlayerController.h"
+//#include "GameFramework/PlayerState.h"
+//#include "GameFramework/PlayerController.h"
 
 
 void ULobbyUserWidget::SetInfo(ALobbyPlayerState* InPlayerState)
